@@ -20,7 +20,7 @@ from telegram.ext import (
     filters,
 )
 
-BOT_TOKEN = os.environ["BOT_TOKEN"]
+BOT_TOKEN = os.environ["8975252170:AAESG_NZ7P59tJw-pn1JTwYPSMCUTt674Zg"]
 TERABOX_GATEWAY = os.getenv(
     "TERABOX_GATEWAY",
     "https://tbx-proxy.shakir-ansarii075.workers.dev/"
